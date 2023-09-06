@@ -1,0 +1,17 @@
+# Dépendances
+/node_modules
+
+#A générer
+images/*
+traces/*
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environnement
+.env
+
+# Autres
+.DS_Store
